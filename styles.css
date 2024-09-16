@@ -1,0 +1,20 @@
+*{
+    background-color:#8FBC8F;
+    text-align:center;
+    
+}
+.fantasy {
+    font-family: fantasy;
+  }
+table,td {
+     border:1px solid black;
+     margin-left: auto;
+    margin-right: auto;
+}
+th{
+    background-color:#2F4F4F;
+}
+.highlight{
+    font-weight: bold;
+    color: #FAEBD7;
+}
